@@ -46,7 +46,7 @@ EasyCLA presents a review agreement link to individual contributors to open a CL
 
 1. Select an individual CLA type.
 
-![CLA Gerrit ICLA Type](../../../.gitbook/assets/cla-gerrit-icla-type.png)
+![New Contributor Agreement ICLA flow](../../../.gitbook/assets/new-contributor-agreement-icla.png)
 
 2. Click the **Please review the agreement link** and then click the message link that appears:
 
@@ -54,7 +54,7 @@ EasyCLA presents a review agreement link to individual contributors to open a CL
 
 3. Sign in to EasyCLA if you are prompted.
 
-4. Click **OPEN CLA** on the dialog that appears:  
+4. Wait for the OPEN CLA button to be activated, and click **OPEN CLA** on the dialog that appears:  
 DocuSign presents the agreement that you must sign. The Individual CLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 
 ![](../../../.gitbook/assets/individual-cla.png)

@@ -10,23 +10,21 @@ You can add CCLA managers to your project or remove them.
 
 **Do these steps:**
 
-1. ​[Sign in](sign-in-to-the-cla-corporate-console.md).
+​1. [Sign in](sign-in-to-the-cla-corporate-console.md).  
+The CLA Corporate Console appears and shows Companies.
 
-   The CLA Corporate Console appears and shows Companies.
+2. Click a **company** of interest.  
+The CLA Corporate Console shows signed CLAs under **Projects with Signed CLAs** section.
 
-2. Click a **company** of interest.
+3. Click **MANAGE APPROVED LIST** next to a CLA for which you want to manage CLA managers.  
+Project Signatures lists the CCLA Managers and Employee Acknowledgements for the project.
 
-   The CLA Corporate Console shows Signed CLAs.
+![manage approved list](../../../.gitbook/assets/manage-approved-list.png)
 
-   ​![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)​
+4. Continue:
 
-3. Click a **CLA**.
-
-   Project Signatures lists the CCLA Managers and Employee Acknowledgements for the project.
-
-4. Do an action:
-   * [Add a CCLA Manager](add-or-delete-cla-managers.md#add-a-ccla-manager)
-   * [Delete a CCLA Manager](add-or-delete-cla-managers.md#delete-a-ccla-manager)
+* [Add a CCLA Manager](add-or-delete-cla-managers.md#add-a-ccla-manager)
+* [Delete a CCLA Manager](add-or-delete-cla-managers.md#delete-a-ccla-manager)
 
 ## Add a CCLA Manager <a id="add-a-ccla-manager"></a>
 
@@ -34,11 +32,13 @@ You can add CCLA managers to your project or remove them.
 
    The Add CLA Manager dialog appears.
 
-   ​![Add CLA Manager pane](../../../.gitbook/assets/cla-managers-pane.png)​
+   ​ ![](../../../.gitbook/assets/add-cla-manager%20%281%29.png) ​
 
 2. Enter the Linux Foundation identification of the CCLA manager who you want to add and click **SAVE**.
 
-   ​![Add CLA Manager](../../../.gitbook/assets/cla-add-cla-manager.png)​
+   ​​
+
+![](../../../.gitbook/assets/add-cla-manager-window.png)
 
 The CCLA manager is listed under CLA Managers.
 
@@ -48,4 +48,6 @@ The CCLA manager is listed under CLA Managers.
 2. Click **DELETE** on the Delete Manager confirmation dialog.
 
 The CCLA manager is removed from under CLA Managers.
+
+![](../../../.gitbook/assets/delete-cla-manager%20%281%29.png)
 
