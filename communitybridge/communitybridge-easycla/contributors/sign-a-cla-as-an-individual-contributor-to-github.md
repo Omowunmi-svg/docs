@@ -22,7 +22,8 @@ The Authorize CommunityBridge: EasyCLA dialog appears.
 
 ​![Authorize CommunityBridge: EasyCLA](../../../.gitbook/assets/cla-authorize-easycla%20%281%29.png)​
 
-The CLA Contributor Console appears and shows the CLA group for your project. The CLA types display:
+The CLA Contributor Console appears and shows the CLA group for your project.  
+**Note:** If the project has not configured for CCLA, then Corporate Contributor option is not displayed.
 
 ![cla contributor console](../../../.gitbook/assets/type-of-contributor.png)
 
