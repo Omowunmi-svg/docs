@@ -65,8 +65,6 @@ You are a _Corporate CLA manager_ \(CCLA manager\) if you are the person authori
 * [Add Contributors to Approved List](../ccla-managers-and-ccla-signatories/approve-contributors.md)
 * [Add or Delete CLA Managers](../ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
 
-###  <a id="corporate-cla-signatory"></a>
-
 ### Corporate CLA Manager Designee
 
 You are a _Corporate CLA Manager Designee_ \(CCLA manager designee\) if there are no existing CLA managers for a company, and  you are the first person to sign a CLA for a project on behalf of the company.
