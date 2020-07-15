@@ -37,18 +37,18 @@ The CLA Contributor Console appears.
 
 8. Continue:
 
-* [Company has signed CLA](contribute-to-a-corporate-github-project.md#if-a-confirmation-of-association-with-statement-appears)
-* [Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears)
-* [Company is not in the List](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1)
+* [If Company has signed CLA](contribute-to-a-corporate-github-project.md#if-a-confirmation-of-association-with-statement-appears)
+* [If Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears)
+* [If Company is not in the List](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears-1)
 
-## Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
+## If Company has signed CLA <a id="if-a-confirmation-of-association-with-statement-appears"></a>
 
 **CLA manager\(s\) for your company** window appears informing you that the company has signed CLA.
 
 1. Select CLA manager\(s\) from the drop-down list whom you want to request for authorizing you to contribute.
 
 * **Go Back:** Takes you to the previous screen.
-* **Exit EasyCLA:** Cancels out the process of requesting to be authorized to contribute.
+* **Exit EasyCLA:** Cancels the CLA signing process.
 
 ![](../../../.gitbook/assets/comapny-has-signed-cla.png)
 
@@ -57,8 +57,8 @@ A dialog appears and informs you: Request Submitted ​
 
 ![](../../../.gitbook/assets/request-submitted.png)
 
-3. Click **Exit EasyCLA**.  Is this correct flow: _**QUESTION FOR PRANAB**_  
-The CCLA  adds you to the approved list.
+3. Click **Exit EasyCLA**.  
+_****_The CCLA  adds you to the approved list.
 
 You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
 
@@ -70,7 +70,7 @@ A tick appears next to your branch. A notification appears:
 
 The CLA is added to the project.
 
-## Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
+## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
 
 **No Signed CLA Found** window appears informing you that the company has not signed CLA.
 
@@ -90,9 +90,8 @@ A window appears confirming that request is submitted to respective individual w
 
 ![](../../../.gitbook/assets/request-submitted-for-company-not-signed-cla.png)
 
-5. Click **Exit EasyCLA**. 
-
-_**WHAT HAPPENS AFTER THIS STEP: WILL THE USER REDIRECTED TO GITHUB?QUESTION TO PRANAB**_
+5. Click **Exit EasyCLA**.  
+You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list. 
 
 6. Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
  ![](../../../.gitbook/assets/identify-cla-signatory.png) 
@@ -118,7 +117,7 @@ You are redirected to GitHub. Wait a few seconds for the CLA status to update or
 
 The CLA is added to the project.
 
-## Company is not in the List <a id="if-the-select-company-dialog-appears"></a>
+## If Company is not in the List <a id="if-the-select-company-dialog-appears"></a>
 
 1. Click **+Click Here** next to **Organization not listed?**
 
