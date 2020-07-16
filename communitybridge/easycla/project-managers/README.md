@@ -1,11 +1,11 @@
 # Project Managers
 
-Project managers have responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and legal aspects like the CLA. You use the CLA Management Console.
+Project managers have responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and legal aspects like the CLA. Linux Foundation provides you admin access for the project, and you use the CLA Management Console.
 
 Do the following CLA set-up:
 
-1. [Sign in to the CLA Management Console](sign-in-to-the-cla-management-console.md)​
-2. [Install the EasyCLA Application](install-the-easycla-application.md).
+1. Sign in to the Admin dashboard
+2. Configure the EasyCLA application.
 3. ​[Add a CLA Group](add-a-cla-group.md).
 4. ​[Add/Remove GitHub Repositories](add-github-repositories-to-cla-monitoring-or-remove-them-from-cla-monitoring.md) Or [Add/Delete Gerrit Instances](add-gerrit-instances-to-cla-monitoring-or-delete-them-from-cla-monitoring.md)
 
