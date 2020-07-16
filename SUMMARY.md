@@ -217,6 +217,8 @@
       * [Add or Delete CLA Managers](communitybridge/easycla/ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
       * [View Employee Acknowledgements](communitybridge/easycla/ccla-managers-and-ccla-signatories/view-employee-acknowledgements.md)
       * [Edit the Company Name and Manager Details](communitybridge/easycla/ccla-managers-and-ccla-signatories/edit-the-company-name-and-manager-details.md)
+  * [Admin Dashboard](communitybridge/admin-dashboard/README.md)
+    * [Configuring CLA for a Foundation](communitybridge/admin-dashboard/configuring-cla-for-a-foundation.md)
   * [CommunityBridge Portal](communitybridge/communitybridge-portal/README.md)
     * [FAQs](communitybridge/communitybridge-portal/faqs.md)
     * [Manage your Profile](communitybridge/communitybridge-portal/manage-your-profile/README.md)
