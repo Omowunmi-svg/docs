@@ -1,8 +1,8 @@
-# View CLA and Activity Log Status
+# View CLA Group and Activity Log Statuses
 
 ### CLA Group created with projects
 
-After you [configure CLA](configuring-cla-for-a-foundation.md), the CLA groups that are created for a group of projects or an individual project are shown under **CLA GROUPS UNDER &lt;FOUNDATION/PROJECT NAME&gt;**, and following screen appears showing all the details for the created CLA groups.
+After you [configure CLA](configuring-cla-for-a-foundation.md), the CLA groups that are created for a group of projects or an individual project are shown under **CLA GROUPS UNDER &lt;FOUNDATION/PROJECT&gt;**, and following screen appears showing all the details for the created CLA groups.
 
 ![](../../.gitbook/assets/cla-group-details.png)
 
