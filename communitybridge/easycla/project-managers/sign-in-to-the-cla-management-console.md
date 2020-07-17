@@ -2,15 +2,15 @@
 
 Project managers sign in to the CLA Project Console to perform the CLA set-up and management tasks.
 
-**Do these steps:**
+**Do these steps: \(PRANAB TO CHECK TO CHECK THE USER FLOW\)**
 
 1. Go to [https://project.lfcla.com](https://project.lfcla.com). **\(IS THIS LINK CORRECT? PRANAB TO CONFIRM\)**
 
 2. Click **SIGN IN**. The LF CLA sign-in dialog appears.
 
-3. Enter your credentials as the project manager and click **LOG IN**.
+3. Enter your credentials as the project manager and click **Sign In**.
 
-**Result:** The CLA Management Console appears and lists your assigned projects from the Linux Foundation, for example:
+**Result:** The Project Console appears and lists your assigned projects from the Linux Foundation, for example:
 
 ![CLA Management All Projects](../../../.gitbook/assets/cla-management-all-projects.png)
 

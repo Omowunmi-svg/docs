@@ -2,7 +2,9 @@
 
 A Foundation, also called Group of Projects, is a project that has sub projects under it. As a project manager or an administrator, you can configure CLA for a foundation or a sub project under the foundation. For foundations such as CNCF, you configure CLA for the foundation, and it is applicable to all the sub projects that come under the foundation.
 
-To Configure CLA for a Foundation:
+You can configure CLA group for a group of projects or individual projects. CLA groups are individual and/or corporate CLAs required for contribution to a project repository. A CLA group can be applied to a single repository, a group of repositories of a project,  an entire group of projects where each repository has its own repository set.
+
+**To Configure CLA for a Foundation \(Group of Projects\):**
 
  1. On the Foundation page, click **Add new CLA Group**.  
      New CLA Group window appears.
@@ -32,7 +34,9 @@ To Configure CLA for a Foundation:
 8. Under **Select Projects** tab, select projects that you want to enroll under the CLA group, and click **Finish**.  
 **Note:** Select the check box to select all the projects at a time. Click **Go Back** to go back to the **Edit/Review Template** screen.
 
-The CLA groups created for a foundation are shown under **CLA GROUPS UNDER &lt;FOUNDATION NAME&gt;**, and following screen appears showing all the details for the created CLA groups.
+![](../../.gitbook/assets/select-projects.png)
+
+The CLA groups that are created for a foundation are shown under **CLA GROUPS UNDER &lt;FOUNDATION NAME&gt;**, and following screen appears showing all the details for the created CLA groups.
 
 ![](../../.gitbook/assets/cla-group-details.png)
 
@@ -45,9 +49,9 @@ For a CLA group, following details are shown:
 * **ICLA&CCLA: View Document** lets you view and download the CLA templates for the project.  ![](../../.gitbook/assets/cla-template.png) 
 * **Signatures: View & Export** lets you view and download the names who have signed Individual CLA and Corporate CLA.  ![](../../.gitbook/assets/cla-signatures.png) 
 * **Add/Manage Project:** lets you add or remove a project.
-* **Add/Manage Repositories:** 
+* **Add/Manage Repositories:** **NOT IN PRD YET, BUT SHOWS IN WIREFRAME**
 
-
+**ACTIVITY LOG shows recent activities for the project.**  
 
 * CLA group with no projects selected under it:
 

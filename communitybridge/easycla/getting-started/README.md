@@ -34,7 +34,7 @@ How you interact with EasyCLA depends on your role. EasyCLA supports the followi
 
 ### Project Manager <a id="project-manager"></a>
 
-You are a _project manager_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console.
+You are a _project manager_  or _project admin_ if you are the project maintainer who has responsibilities such as managing a project’s GitHub organization or Gerrit instance, members, repositories, and CLAs. You have access to specific projects within the EasyCLA project console.
 
 With EasyCLA, you do the following CLA set-up tasks:
 
