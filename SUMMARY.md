@@ -221,7 +221,7 @@
     * [Configuring CLA for a Foundation](communitybridge/admin-dashboard/configuring-cla-for-a-foundation.md)
     * [View CLA Group and Activity Log Statuses](communitybridge/admin-dashboard/view-cla-and-activity-log-status.md)
     * [Add or Remove a Project from CLA Group](communitybridge/admin-dashboard/add-or-remove-a-project-from-cla-group.md)
-    * [View and Manage CLA Signatures](communitybridge/admin-dashboard/view-and-manage-cla-signatures.md)
+    * [View and Manage CLA Signatures\(working\)](communitybridge/admin-dashboard/view-and-manage-cla-signatures.md)
     * [View Current and Previous CLA Dcuments](communitybridge/admin-dashboard/view-current-and-previous-cla-dcuments.md)
   * [CommunityBridge Portal](communitybridge/communitybridge-portal/README.md)
     * [FAQs](communitybridge/communitybridge-portal/faqs.md)

@@ -17,7 +17,7 @@ For a CLA group, following details are shown:
 * **Add/Manage Project:** lets you add or remove a project.
 * **Add/Manage Repositories:** **NOT IN PRD YET, BUT SHOWS IN WIREFRAME**
 
-**ACTIVITY LOG shows recent activities for the project. Following are various entities of Activity Log table:**
+**ACTIVITY LOG** shows recent activities for the project. Following are various entities of Activity Log table**:**
 
 * **Date-Time** shows date and local time when activity happened.
 * **Activity** shows what activity happened.

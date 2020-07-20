@@ -1,4 +1,4 @@
-# View and Manage CLA Signatures
+# View and Manage CLA Signatures\(working\)
 
 As a project manager, you use the CLA Admin Dashboard to manage your CLA group details, and view user signatures and companies.
 
@@ -9,7 +9,7 @@ As a project manager, you use the CLA Admin Dashboard to manage your CLA group d
 
    The project page appears.
 
-3. Go to a CLA group for which you want to view the signatures, and click **View & Export** from the **Signatures** column.
+3. Under the project, go to a CLA group for which you want to view the signatures, and click **View & Export** under the **Signatures** column.
 
 ![](../../.gitbook/assets/view-and-export-signatures.png)
 
@@ -24,7 +24,7 @@ As a project manager, you use the CLA Admin Dashboard to manage your CLA group d
 
 ![Signed ICLAs](../../.gitbook/assets/signed-icla.png)
 
-Signed ICLAs shows a table that displays the following information:
+**Signed ICLAs** shows a table that displays the following information:
 
 * **GitHub ID** shows the GitHub identity of the individual contributor.
 * **LFID** shows the Linux Foundation identity of the individual contributor.
@@ -34,11 +34,11 @@ Signed ICLAs shows a table that displays the following information:
 
 2. \(Optional\) Click the **Date Signed** column header to sort the table values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
 
-3. Click **Close**.
+3. Click **Close** to close the window.
 
 ## View Corporate CLA User Signatures <a id="view-the-corporate-cla-companies"></a>
 
-The Corporate CLA list lets you see what companies in your project have a signed Corporate CLA. You can view the full set of signatures and list of approved contributors who are interacting with a project.
+The Corporate CLA list lets you see what companies in your project have a signed Corporate CLA. You can view the full set of signatures and list of approved contributors who are interacting with the project.
 
 1. Click **Signed CCLAs** tab.  
 All companies that have signed the Corporate CLA are listed.
@@ -47,16 +47,15 @@ All companies that have signed the Corporate CLA are listed.
 
 **Signed CCLAs** shows a table that displays the following information:
 
-* Company shows the name and logo of the company that the CLA Manager belongs to.
-  * CLA Manager\(s\) name
-  * LFID of the CLA Manager.
-  * Email of the CLA Manager.
-  * Date Signed - Date when CLA Manager signed the CCLA.
-  * Approved List - When user clicks on "View Details" the table expands to show approved list. This is shown in step 3c.2
-  * Approved Contributor - Gives the names of approved contributors from that company. This is shows in step 3c.2
-  * Table is sorted by Date Signed column with latest date at the top.
+* **Company** shows the name and logo of the company that the CLA Manager belongs to.
+* CLA Manager\(s\) name
+* LFID of the CLA Manager.
+* Email of the CLA Manager.
+* Approval Criteria - When user clicks on "View Details" the table expands to show approved list. This is shown in step 3c.2
+* Approved Contributor - Gives the names of approved contributors from that company. This is shows in step 3c.2\
+* Date Signed - Date when CLA Manager signed the CCLA.
 
 2. \(Optional\) Click the **Date Signed** column header to sort the table values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
 
-3. Click **Close**.
+3. Click **Close** to close the window.
 
