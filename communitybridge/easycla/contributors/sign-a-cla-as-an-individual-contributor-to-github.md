@@ -8,9 +8,10 @@ As an individual contributor to an open-source project who is contributing code 
 
 2. Make a change and send a pull request.
 
-EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names who are involved in that pull request based on their CLA status.
-
-A cross next to your contributor name means the CLA check failed.
+{% hint style="info" %}
+1. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names who are involved in that pull request based on their CLA status.
+2. A cross next to your contributor name means the CLA check failed.
+{% endhint %}
 
 ![CLA check failed](../../../.gitbook/assets/cla-not-signed.png)
 

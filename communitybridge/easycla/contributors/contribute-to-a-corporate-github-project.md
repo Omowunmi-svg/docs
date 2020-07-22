@@ -12,8 +12,12 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
 2. Make a change and send a pull request.
 
-3. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names involved in that pull request based on their CLA status.  
-**Note:** A cross next to your contributor name means the CLA check failed.
+3. EasyCLA checks the CLA status of all committers involved in that pull request.
+
+{% hint style="info" %}
+1. EasyCLA marks a cross or a tick beside contributor names involved in that pull request based on their CLA status.
+2. A cross next to your contributor name means the CLA check failed.
+{% endhint %}
 
 ![CLA GitHub Company Contributor Fail](../../../.gitbook/assets/cla-github-company-contributor-fail.png)
 
@@ -58,9 +62,9 @@ A dialog appears and informs you: Request Submitted ​
 ![](../../../.gitbook/assets/request-submitted.png)
 
 3. Click **Exit EasyCLA**.  
-_****_The CCLA  adds you to the approved list.
+_****_The CLA  manager adds you to the approved list.
 
-You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page.
+You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page. **\(IS THIS CORRECT? IS THE CLA SIGNED CHECKMARK SHOWS AFTER FEW MINUTES EVEN WHEN THE USER SENDS REQUESTS TO BE ADDED TO APPROVE LIST \)**
 
 A tick appears next to your branch. A notification appears:
 
@@ -68,54 +72,63 @@ A tick appears next to your branch. A notification appears:
 
 4. Click **Merge pull request** and confirm the merge.
 
-The CLA is added to the project.
-
 ## If Company has not signed CLA <a id="if-the-select-company-dialog-appears"></a>
 
 **No Signed CLA Found** window appears informing you that the company has not signed CLA.
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-* **Yes**— A **Configuring CLA Manager Settings** window appears. After the configuration settings is completed, click **Proceed**, and continue to step 6.
-* **No**— An **Identify CLA Manager** form appears. Continue to step 3 through 5.
+* [Yes](contribute-to-a-corporate-github-project.md#if-you-are-authorized)
+* [No](contribute-to-a-corporate-github-project.md#if-you-are-not-authorized)
 
 ![company has not signed cla](../../../.gitbook/assets/company-has-not-signed-cla%20%281%29.png)
 
-3. Complete the form, and click **Submit Request**, ****Or click **Contact Company Admin**.  
-A window appears confirming that request is submitted to respective individual who signs a Corporate CLA and adds you to the approved list.
+### If **You are** Authorized
 
-![](../../../.gitbook/assets/identify-cla-manager%20%281%29.png)
+1. A **Configuring CLA Manager Settings** window appears. After the configuration settings is completed, click **Proceed**.  
+ ![](../../../.gitbook/assets/configuring-cla-manager-settings.png) 
 
-4. A window appears confirming that the request is submitted.
+{% hint style="warning" %}
+I**mportant:** If you don't have a username \(LFID\) associated with Linux Foundation, you will be re-directed to Linux Foundation page to create a username. After you create a username, you will be re-directed back to corporate console where you can proceed with CLA signing.
+{% endhint %}
 
-![](../../../.gitbook/assets/request-submitted-for-company-not-signed-cla.png)
-
-5. Click **Exit EasyCLA**.  
-You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list. 
-
-6. Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
+2.  Click an answer: **Are you authorized to sign CLAs on your company's behalf?**  
  ![](../../../.gitbook/assets/identify-cla-signatory.png) 
 
-* **Yes**— Review CCLA \(Corporate Contributor License Agreement\) window appears. Click **Review & Sign CCLA**, and continue to step 8.  ****![](../../../.gitbook/assets/review-ccla.png) 
+* **Yes**— **Review CCLA** window appears. Click **Review & Sign CCLA**, and continue to step 4.  ****![](../../../.gitbook/assets/review-ccla.png) 
 * **No**— An **Identify Authorized Signatory** form appears. Continue to next step.  ![](../../../.gitbook/assets/identify-authorized-signatory.png) 
 
-7. Complete the form, and click **Send Signature Request Email**.  
+3. Complete the form, and click **Send Signature Request Email**.  
 A success window appears confirming that the signature request is sent to the email address of the individual who signs the Corporate CLA, and adds you to the approved list.
 
-8. After CCLA preparation is completed, click **SIGN CCLA** on CCLA Ready for Signature window.  
+4. After CCLA preparation is completed, click **SIGN CCLA** on CCLA Ready for Signature window.  
 **Result:** You will be redirected to complete the DocuSign process
 
 ![](../../../.gitbook/assets/sign-cla-individual-cla-flow.png)
 
-9. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+5. Select the checkbox, click **CONTINUE**,  and follow the instructions in the DocuSign document, sign it, and click **FINISH**.
+
+![](../../../.gitbook/assets/docusign-icla-flow.png)
 
 You are redirected to GitHub. Wait a few seconds for the CLA status to update or refresh the page. A tick appears next to your branch. A notification appears:
 
 ![](../../../.gitbook/assets/cla-github-all-checks-passed.png)
 
-10. Click **Merge pull request** and confirm the merge.
+6. Click **Merge pull request** and confirm the merge.
 
-The CLA is added to the project.
+### If You are not Authorized
+
+1. An **Identify CLA Manager** form appears.
+
+![](../../../.gitbook/assets/identify-cla-manager%20%281%29.png)
+
+3. Complete the form, and click **Submit Request**, ****Or if you don't know email address of CLA Manager of your company, click **Contact Company Admin**.  
+**Result:** A window appears confirming that request is submitted to respective individual who signs a Corporate CLA and adds you to the approved list.
+
+![](../../../.gitbook/assets/request-submitted-for-company-not-signed-cla.png)
+
+4. Click **Exit EasyCLA**.  
+You can contribute after the authorized representative signs a corporate CLA, and adds you to the approved list.
 
 ## If Company is not in the List <a id="if-the-select-company-dialog-appears"></a>
 
@@ -128,7 +141,7 @@ The CLA is added to the project.
 ![](../../../.gitbook/assets/enter-organization-details.png)
 
 3. A window appears confirming that the organization is successfully added. Click **Proceed**, and continue to [step 1 of Company has not signed CLA](contribute-to-a-corporate-github-project.md#if-the-select-company-dialog-appears).  
-**Note: Compnay Already Exists** window appears if the company is already added to the list.
+**Note: Company Already Exists** window appears if the company is already added to the list.
 
 ![](../../../.gitbook/assets/company-added-successfully.png)
 

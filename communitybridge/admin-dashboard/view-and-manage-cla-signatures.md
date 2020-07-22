@@ -47,11 +47,13 @@ All companies that have signed the Corporate CLA are listed.
 
 **Signed CCLAs** shows a table that displays the following information:
 
+* **Add Manually Signed CCLA** lets you add a Corporate CLA document that a company has signed. **\(CHECK WITH PRANAB\)**
 * **Company** shows the name and logo of the company that the CLA Manager belongs to.
-* CLA Manager\(s\) name: **MODIFY THE CONTENT AFTER PRANAB UPDATES THE PRD**
-* Approval Criteria - When user clicks on "View Details" the table expands to show approved list. This is shown in step 3c.2
+* CLA Manager\(s\) name: **MODIFY THE CONTENT AFTER PRANAB UPDATES THE PRD.**
+* **Approval Criteria** - When user clicks on "View Details" the table expands to show approved list. This is shown in step 3c.2
 * Approved Contributor - Gives the names of approved contributors from that company. This is shows in step 3c.2\
-* Date Signed - Date when CLA Manager signed the CCLA.
+* **Date Signed** shows the date when CLA Manager signed the CCLA.
+* **Signed CLA:** Click  ![](../../.gitbook/assets/download-button.png) to download the CLA document. **\(CHECK WITH THE UI FLOW\)**
 
 2. \(Optional\) Click the **Date Signed** column header to sort the table values in ascending or descending order. Use the pagination options to go to subsequent or previous pages.
 
