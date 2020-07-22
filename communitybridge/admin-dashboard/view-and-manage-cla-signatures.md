@@ -48,9 +48,7 @@ All companies that have signed the Corporate CLA are listed.
 **Signed CCLAs** shows a table that displays the following information:
 
 * **Company** shows the name and logo of the company that the CLA Manager belongs to.
-* CLA Manager\(s\) name
-* LFID of the CLA Manager.
-* Email of the CLA Manager.
+* CLA Manager\(s\) name: **MODIFY THE CONTENT AFTER PRANAB UPDATES THE PRD**
 * Approval Criteria - When user clicks on "View Details" the table expands to show approved list. This is shown in step 3c.2
 * Approved Contributor - Gives the names of approved contributors from that company. This is shows in step 3c.2\
 * Date Signed - Date when CLA Manager signed the CCLA.
