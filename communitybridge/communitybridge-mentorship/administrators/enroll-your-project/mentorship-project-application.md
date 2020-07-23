@@ -180,8 +180,6 @@ Each mentee applicant must complete at least one prerequisite task to qualify fo
 
 Select a checkbox to add a prerequisite name. Click **Add Custom Prerequisite** to add name and description of your own required task.
 
-![Custom Prerequisite](../../../../.gitbook/assets/custom-prerequisite.png)
-
 **Prerequisite Name** is the name of a qualification task that you want an applicant to complete.
 
 **Description** is a detailed description of the activities and any other factors that are involved in or required for the task. A detailed and exact description helps eliminate unqualified applicants and improves suitable matches.
