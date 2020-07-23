@@ -17,8 +17,6 @@ As a mentee, you can get the opportunity to engage in an open source project und
 
 3. Select a project of interest, click **CLICK TO APPLY**, and after the card flips over, click **Apply**.
 
-![Apply to a Project](../../../../.gitbook/assets/apply-to-a-project.png)
-
 {% hint style="warning" %}
 * You can apply to maximum three projects in one term.
 * For projects that your application is declined or you have withdrawn your application, you can re-apply to those in next term.

@@ -23,8 +23,6 @@ Keep these items ready before you begin:
 
 2. Click **Enroll Your Project**.
 
-![](../../../../.gitbook/assets/enroll-your-project-screen.png)
-
 3. Complete the [Mentorship Project Application](mentorship-project-application.md) form fields. Red asterisks indicate required fields. A bar at the top of the page shows your progress as you click **Next** through the form.
 
 4. Read and agree to the Terms and Conditions and **Submit** the application.  
