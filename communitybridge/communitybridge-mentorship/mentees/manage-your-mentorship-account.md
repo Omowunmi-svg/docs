@@ -28,8 +28,6 @@ Your CommunityBridge Mentorship account lets you manage your Linux Foundation ac
 
 ‌Following is an example:                   ![](https://docs.linuxfoundation.org/download/attachments/4823275/Mentorship-Mentee-Edit-Profile.png?version=1&modificationDate=1574933201052&api=v2)
 
-![Mentee Profile](../../../.gitbook/assets/mentee-profile%20%281%29.png)
-
 ## My Projects
 
 My Projects shows the project names based on your role in those projects:
